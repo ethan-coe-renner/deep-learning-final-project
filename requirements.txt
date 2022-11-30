@@ -1,0 +1,2 @@
+deeplake==3.1.1
+torch==1.13.0
