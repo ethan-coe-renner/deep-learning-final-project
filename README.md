@@ -1,5 +1,5 @@
 # Deep Learning Project
-![Starry Night by Van Gogh](van-gogh.avif)
+![Starry Night by Van Gogh](imgs/van-gogh.avif)
 
 ## Dependencies
 - `pip install deeplake`
